@@ -1,44 +1,101 @@
-# vCard - Personal portfolio
+# SATHVIK KARUMOJU
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+### ◈ Designing Experiences. Engineering Products.
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+---
 
-## Demo
+I don't just build websites.
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+I design systems, craft interfaces, and engineer products that solve real problems.
 
-## Prerequisites
+The intersection of design and development is where I do my best work.
 
-Before you begin, ensure you have met the following requirements:
+---
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+## ◉ Philosophy
 
-## Installing vCard
+Most people choose between design and development.
 
-To install **vCard**, follow these steps:
+I chose both.
 
-Linux and macOS:
+Because products feel different when the same person cares about the experience **and** the implementation.
 
-```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
+Beautiful interfaces matter.
 
-Windows:
+Scalable code matters.
 
-```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
+Neither should exist without the other.
 
-## Contact
+---
 
-If you want to contact me you can reach me at [Twitter](https://www.x.com/codewithsadee_).
+## ⬢ Current Focus
 
-## License
+Building full-stack applications.
 
-MIT
+Designing intuitive user experiences.
+
+Creating products from idea to deployment.
+
+Learning relentlessly.
+
+Shipping consistently.
+
+---
+
+## ◆ Things I Build
+
+▣ Frontend Experiences
+
+▣ Backend Systems
+
+▣ UI/UX Design
+
+▣ Graphic Design
+
+▣ Design Systems
+
+▣ Digital Products
+
+---
+
+## ◇ Selected Work
+
+### CollabX
+
+A privacy-first collaboration platform helping students discover the right project partners.
+
+Built around intent, compatibility, and meaningful connections.
+
+---
+
+### Invenzo
+
+An inventory and sales dashboard designed to help businesses make smarter decisions with less effort.
+
+Simple workflows.
+
+Clear insights.
+
+Better control.
+
+---
+
+## ⟡ Beyond The Screen
+
+I enjoy studying products, analyzing interfaces, and understanding why some experiences feel effortless while others don't.
+
+Every project is an opportunity to improve not only my code, but my thinking.
+
+---
+
+## ◬ Currently Becoming
+
+A stronger engineer.
+
+A better designer.
+
+A thoughtful builder.
+
+---
+
+### ⌘ Let's Build Something Meaningful.
