@@ -1141,6 +1141,32 @@ main {
   filter: grayscale(1) invert(1);
 }
 
+.contact-section h1 {
+  font-size: clamp(2rem, 5vw, 3.2rem);
+  font-weight: 700;
+  line-height: 1.15;
+  letter-spacing: 0.02em;
+  margin-bottom: 14px;
+  color: transparent;
+  background: linear-gradient(120deg, var(--white-2), var(--orange-yellow-crayola));
+  -webkit-background-clip: text;
+  background-clip: text;
+  text-shadow: 0 10px 30px hsla(45, 100%, 72%, 0.15);
+}
+
+.contact-section h2 {
+  display: inline-block;
+  font-size: clamp(1rem, 2.5vw, 1.25rem);
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  color: var(--orange-yellow-crayola);
+  padding: 8px 14px;
+  border: 1px solid var(--jet);
+  border-radius: 999px;
+  background: var(--bg-gradient-jet);
+  box-shadow: var(--shadow-1);
+}
+
 .contact-form { margin-bottom: 10px; }
 
 .form-title { margin-bottom: 20px; }
